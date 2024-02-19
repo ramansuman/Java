@@ -1,15 +1,15 @@
-/*print:-
-1 2 3 4 5
-1 2 3 4 5
-1 2 3 4 5
-1 2 3 4 5
+/* print:-
+5 4 3 2 1
+5 4 3 2 1
+5 4 3 2 1
+5 4 3 2 1
+ 
  */
-public class pattern4 {
+public class pattern20 {
     public static void main(String[] args) {
-        int i,j;
         int n=5;
-        for(i=1; i<=n; i++){
-            for(j=1; j<=n; j++){
+        for (int i = n; i >=1; i--) {
+            for (int j = n; j >=1; j--) {
                 System.out.print(j+" ");
             }
             System.out.println();
