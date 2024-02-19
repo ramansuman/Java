@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pattern40",
+            "request": "launch",
+            "mainClass": "pattern40",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern39",
+            "request": "launch",
+            "mainClass": "pattern39",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern38",
+            "request": "launch",
+            "mainClass": "pattern38",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern37",
+            "request": "launch",
+            "mainClass": "pattern37",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern36",
+            "request": "launch",
+            "mainClass": "pattern36",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern35",
+            "request": "launch",
+            "mainClass": "pattern35",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern34",
+            "request": "launch",
+            "mainClass": "pattern34",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern33",
+            "request": "launch",
+            "mainClass": "pattern33",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern32",
+            "request": "launch",
+            "mainClass": "pattern32",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern31",
+            "request": "launch",
+            "mainClass": "pattern31",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern30",
+            "request": "launch",
+            "mainClass": "pattern30",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern29",
+            "request": "launch",
+            "mainClass": "pattern29",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern28",
+            "request": "launch",
+            "mainClass": "pattern28",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
             "name": "pattern27",
             "request": "launch",
             "mainClass": "pattern27",
