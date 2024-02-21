@@ -6,6 +6,167 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pattern55",
+            "request": "launch",
+            "mainClass": "pattern55",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern56",
+            "request": "launch",
+            "mainClass": "pattern56",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern52",
+            "request": "launch",
+            "mainClass": "pattern52",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern51",
+            "request": "launch",
+            "mainClass": "pattern51",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern50",
+            "request": "launch",
+            "mainClass": "pattern50",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern49",
+            "request": "launch",
+            "mainClass": "pattern49",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern48",
+            "request": "launch",
+            "mainClass": "pattern48",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern47",
+            "request": "launch",
+            "mainClass": "pattern47",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern46",
+            "request": "launch",
+            "mainClass": "pattern46",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern45",
+            "request": "launch",
+            "mainClass": "pattern45",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern44",
+            "request": "launch",
+            "mainClass": "pattern44",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern43",
+            "request": "launch",
+            "mainClass": "pattern43",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern42",
+            "request": "launch",
+            "mainClass": "pattern42",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern41",
+            "request": "launch",
+            "mainClass": "pattern41",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "fibonacci",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "sumOfDigit",
+            "request": "launch",
+            "mainClass": "sumOfDigit",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "AApractice",
+            "request": "launch",
+            "mainClass": "AApractice",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "reverseNumber",
+            "request": "launch",
+            "mainClass": "reverseNumber",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "swap2",
+            "request": "launch",
+            "mainClass": "swap2",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "swap",
+            "request": "launch",
+            "mainClass": "swap",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "EvenOdd",
+            "request": "launch",
+            "mainClass": "EvenOdd",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
             "name": "pattern40",
             "request": "launch",
             "mainClass": "pattern40",
