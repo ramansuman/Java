@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "challengeDay4",
+            "request": "launch",
+            "mainClass": "challengeDay4",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "swappinNumber",
+            "request": "launch",
+            "mainClass": "swappinNumber",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "challengeDay2",
+            "request": "launch",
+            "mainClass": "challengeDay2",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "printFactors",
+            "request": "launch",
+            "mainClass": "printFactors",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "armstrong",
+            "request": "launch",
+            "mainClass": "armstrong",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "perfectNumber",
+            "request": "launch",
+            "mainClass": "perfectNumber",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "palindromeNumber",
+            "request": "launch",
+            "mainClass": "palindromeNumber",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
             "name": "pattern55",
             "request": "launch",
             "mainClass": "pattern55",
