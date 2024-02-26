@@ -5,20 +5,23 @@
 *       *
 * * * * *
 */
+import java.util.Scanner;
 public class pattern2 {
     public static void main(String[] args) {
-        int i,j;
-        int m=5;
-        for(i=1;i<=m;i++){
-            for(j=1;j<=m;j++){
-                if(i==1||i==m||j==1||j==m){
+        int n;
+        Scanner scan = new Scanner(System.in);
+        System.out.print("Enter the size of pattern : ");
+        n= scan.nextInt();
+        for (int i = 1; i <=n; i++) {
+            for (int j = 1; j <=n; j++) {
+                if (i==1||j==1||i==n||j==n) {
                     System.out.print("* ");
-                }
-                else{
+                } else {
                     System.out.print("  ");
                 }
             }
             System.out.println();
+            scan.close();
         }
     }    
 }

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "challengeDay6",
+            "request": "launch",
+            "mainClass": "challengeDay6",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "challengeDay5",
+            "request": "launch",
+            "mainClass": "challengeDay5",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
             "name": "challengeDay4",
             "request": "launch",
             "mainClass": "challengeDay4",
