@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pattern54",
+            "request": "launch",
+            "mainClass": "pattern54",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
             "name": "challengeDay7",
             "request": "launch",
             "mainClass": "challengeDay7",

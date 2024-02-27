@@ -6,15 +6,22 @@
  * 
  
  */
-public class pattern55 {
-    public static void main(String[] args) {
-    int n=5;
-    for (int i = n; i >=1; i--) {
-        for (int j = n; j >=1; j--) {
-            if(i>j-1)
-            System.out.print("* ");
+import java.util.Scanner;
+class pattern55{
+    public static void main(String args[])
+    {
+        Scanner scan = new Scanner(System.in);
+        int n;
+        System.out.print("Enter the size of pattern : ");
+        n=scan.nextInt();
+        for(int i=1;i<=n;i++)
+        {
+            for(int j=1;j<=n-i+1;j++)
+            {
+                System.out.print("* ");
+            }
+            System.out.println();
         }
-        System.out.println();
-    }
+        scan.close();
     }
 }

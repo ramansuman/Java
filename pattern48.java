@@ -5,15 +5,23 @@
  4 4 4 4
  5 5 5 5 5
  */
-public class pattern48 {
-    public static void main(String[] args) {
-        for (int i = 1; i <=5; i++) {
-            for (int j = 1; j <=5; j++) {
-                if(j<=i){
-                    System.out.print(i+" ");
-                }
+import java.util.Scanner;
+class pattern48
+{
+    public static void main(String args[])
+    {
+        int n;
+        Scanner scan = new Scanner(System.in);
+        System.out.print("Enter the size of pattern : ");
+        n=scan.nextInt();
+        for(int i=1;i<=n;i++)
+        {
+            for(int j=1;j<=i;j++)
+            {
+                System.out.print(i+" ");
             }
             System.out.println();
         }
+        scan.close();
     }
 }

@@ -5,6 +5,7 @@
    * * * *
  * * * * *
  */
+//Already done before
 public class pattern56 {
     public static void main(String[] args) {
         int n=5;
