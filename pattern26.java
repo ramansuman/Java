@@ -5,20 +5,27 @@
  04 09 14 19 24
  05 10 15 20 25
  */
-public class pattern26 {
-    public static void main(String[] args) {
-        int n=5;
-        int k;
-        for (int i = 1; i <=n; i++) {
-            k=i;
-            for (int j = 1; j <=n; j++) {
-                if(k<10){
+import java.util.Scanner;
+class patter26{
+    static public void main(String args[])
+    {
+        Scanner scan = new Scanner(System.in);
+        int n;
+        System.out.print("Enter the size of pattern : ");
+        n=scan.nextInt();
+        for(int i=1;i<=n;i++)
+        {
+            int count=i;
+            for(int j=1;j<=n;j++)
+            {
+                if(count<10){
                     System.out.print("0");
                 }
-                System.out.print(k+" ");
-                k=k+n;
+                System.out.print(count+" ");
+                count+=5;
             }
             System.out.println();
         }
+        scan.close();
     }
 }

@@ -5,19 +5,26 @@
 *     *
 * * * * *
  */
-public class pattern14 {
-    public static void main(String[] args) {
-        int i,j;
-        int n=5;
-        for ( i = 1; i <=n; i++) {
-            for ( j = 1; j <=i; j++) {
-                if(i==1||j==1||i==n||j==i)
-                System.out.print("*");
-                else{
-                    System.out.print(" ");
-                }
+import java.util.Scanner;
+class pattern14
+{
+    public static void main(String[] args)
+    {
+        Scanner scan = new Scanner(System.in);
+        int n;
+        System.out.print("Enter the size of Pattern : ");
+        n=scan.nextInt();
+        for(int i=1;i<=n;i++)
+        {
+            for(int j=1;j<=i;j++)
+            {
+                if(i==1||i==j||j==1||i==n)
+                    System.out.print("* ");
+                else
+                    System.out.print("  ");
             }
             System.out.println();
         }
+        scan.close();
     }
 }

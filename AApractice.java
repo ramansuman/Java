@@ -1,43 +1,30 @@
+/*Question:
+Write a program to find the Highest Common Factor (HCF) of two numbers.
+
+Example:
+Numbers: 24, 36
+HCF: 12
+ */
 import java.util.Scanner;
-
 public class AApractice {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-
-        System.out.print("Enter a number: ");
-        int number = scanner.nextInt();
-
-        // Count number of digits in the input number
-        int numDigits = countDigits(number);
-
-        // Create an array to store the digits
-        int[] digitsArray = new int[numDigits];
-
-        // Store each digit separately in the array
-        int index = numDigits - 1; // Start from the end of the array
-        while (number > 0) {
-            int digit = number % 10; // Get the last digit
-            digitsArray[index] = digit;
-            index--;
-            number = number / 10; // Move to the next digit
-        }
-
-        // Print the array
-        System.out.println("Digits stored in the array:");
-        for (int i = 0; i < numDigits; i++) {
-            System.out.print(digitsArray[i] + " ");
-        }
-
-        scanner.close();
+    static public void main(String args[]) {
+        Scanner scan = new Scanner(System.in);
+        int n1,n2;
+        System.out.println("*** ENTER TWO NUMBERS TO GET HCF ***");
+        System.out.print("Enter first number : ");
+        n1=scan.nextInt();
+        System.out.print("Enter second number : ");
+        n2=scan.nextInt();
+        printHcf(n1,n2);
+        scan.close();
     }
-
-    // Method to count the number of digits in a number
-    public static int countDigits(int number) {
-        int count = 0;
-        while (number != 0) {
-            count++;
-            number = number / 10;
+    static void printHcf(int num1, int num2)
+    {
+        int hcf=0;
+        for (int i = 1; i<=num1&&i<=num2; i++) {
+            if(num1%i==0 && num2%i==0)
+                hcf=i;
         }
-        return count;
+        System.out.println("HCF of "+num1+" and "+num2+" is : "+ hcf);
     }
 }

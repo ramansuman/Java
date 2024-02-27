@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "challengeDay7",
+            "request": "launch",
+            "mainClass": "challengeDay7",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "patter26",
+            "request": "launch",
+            "mainClass": "patter26",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "patten58",
+            "request": "launch",
+            "mainClass": "patten58",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
             "name": "challengeDay6",
             "request": "launch",
             "mainClass": "challengeDay6",

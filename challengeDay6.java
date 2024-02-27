@@ -10,7 +10,7 @@ public class challengeDay6 {
     static public void main(String args[]) {
         Scanner scan = new Scanner(System.in);
         int n1,n2;
-        System.out.println("Enter two numbe to get HCF : ");
+        System.out.println("*** ENTER TWO NUMBERS TO GET HCF ***");
         System.out.print("Enter first number : ");
         n1=scan.nextInt();
         System.out.print("Enter second number : ");

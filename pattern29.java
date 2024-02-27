@@ -1,9 +1,9 @@
 /*print:-
- 5 6 15 16 25
- 4 7 14 17 24
- 3 8 13 18 23
- 2 9 12 19 22
- 1 10 11 20 21
+ 05 06 15 16 25
+ 04 07 14 17 24
+ 03 08 13 18 23
+ 02 09 12 19 22
+ 01 10 11 20 21
  */
 public class pattern29 {
     public static void main(String[] args) {
@@ -13,6 +13,9 @@ public class pattern29 {
             x=i;
             y=n-i+1;
             for (int j = 1; j <=n; j++) {
+                if(x<10){
+                    System.out.print("0");
+                }
                 if((j+1)%2==0){
                     System.out.print(y+" ");
                 }
