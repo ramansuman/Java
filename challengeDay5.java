@@ -3,7 +3,8 @@ Write a program that takes two integers, n1 and n2, as input and prints the firs
 
 Example:
 Input: n1 = 3, n2 = 5, y = 4
-Output: 15, 30, 45, 60 */
+Output: 15, 30, 45, 60 
+*/
 
 import java.util.Scanner;
 

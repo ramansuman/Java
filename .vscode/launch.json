@@ -6,6 +6,146 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pattern78",
+            "request": "launch",
+            "mainClass": "pattern78",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern77",
+            "request": "launch",
+            "mainClass": "pattern77",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern76",
+            "request": "launch",
+            "mainClass": "pattern76",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern75",
+            "request": "launch",
+            "mainClass": "pattern75",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern74",
+            "request": "launch",
+            "mainClass": "pattern74",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern73",
+            "request": "launch",
+            "mainClass": "pattern73",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern72",
+            "request": "launch",
+            "mainClass": "pattern72",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern71",
+            "request": "launch",
+            "mainClass": "pattern71",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern70",
+            "request": "launch",
+            "mainClass": "pattern70",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "patter69",
+            "request": "launch",
+            "mainClass": "patter69",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern68",
+            "request": "launch",
+            "mainClass": "pattern68",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern67",
+            "request": "launch",
+            "mainClass": "pattern67",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern66",
+            "request": "launch",
+            "mainClass": "pattern66",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern65",
+            "request": "launch",
+            "mainClass": "pattern65",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "challengeDay8",
+            "request": "launch",
+            "mainClass": "challengeDay8",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern62",
+            "request": "launch",
+            "mainClass": "pattern62",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "challengeDay1",
+            "request": "launch",
+            "mainClass": "challengeDay1",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern61",
+            "request": "launch",
+            "mainClass": "pattern61",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern60",
+            "request": "launch",
+            "mainClass": "pattern60",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern59",
+            "request": "launch",
+            "mainClass": "pattern59",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
             "name": "pattern54",
             "request": "launch",
             "mainClass": "pattern54",

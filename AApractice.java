@@ -1,30 +1,19 @@
-/*Question:
-Write a program to find the Highest Common Factor (HCF) of two numbers.
-
-Example:
-Numbers: 24, 36
-HCF: 12
- */
 import java.util.Scanner;
-public class AApractice {
-    static public void main(String args[]) {
+class AApractice{
+    public static void main(String args[]){
+        int n;
         Scanner scan = new Scanner(System.in);
-        int n1,n2;
-        System.out.println("*** ENTER TWO NUMBERS TO GET HCF ***");
-        System.out.print("Enter first number : ");
-        n1=scan.nextInt();
-        System.out.print("Enter second number : ");
-        n2=scan.nextInt();
-        printHcf(n1,n2);
-        scan.close();
-    }
-    static void printHcf(int num1, int num2)
-    {
-        int hcf=0;
-        for (int i = 1; i<=num1&&i<=num2; i++) {
-            if(num1%i==0 && num2%i==0)
-                hcf=i;
+        System.out.print("Enter the size of pattern : ");
+        n=scan.nextInt();
+        for(int i=1;i<=n;i++){
+            for(int j=1; j<=i;j++){
+                for (int a = 1; a <=i+(j-1);a++)
+                {
+                    System.out.print(a);
+                }     
+                System.out.println();
+            }
         }
-        System.out.println("HCF of "+num1+" and "+num2+" is : "+ hcf);
+        scan.close();
     }
 }
