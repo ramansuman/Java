@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pattern108",
+            "request": "launch",
+            "mainClass": "pattern108",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "pattern107",
+            "request": "launch",
+            "mainClass": "pattern107",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
             "name": "pattern106",
             "request": "launch",
             "mainClass": "pattern106",
