@@ -5,15 +5,11 @@ class AApractice{
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter the size of pattern : ");
         n=scan.nextInt();
-        for(int i=1;i<=n;i++){
-            for(int j=1; j<=i;j++){
-                for (int a = 1; a <=i+(j-1);a++)
-                {
-                    System.out.print(a);
-                }     
-                System.out.println();
-            }
+        int count =0;
+        for(int i=n;i>=0;i=i/10){
+        count++;
         }
+        System.out.println(count);
         scan.close();
     }
 }
