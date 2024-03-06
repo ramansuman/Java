@@ -9,7 +9,7 @@ Input:
 Array: [1, 1, 1, 2, 3, 3, 5, 5, 5]
 Output: 5
  */
-public class AApractice {
+public class challengeDay13 {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
@@ -34,6 +34,5 @@ public class AApractice {
             }
         }
         return true;
-        // System.out.println("x:"+repeat);
     }
 }

@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "strong",
+            "request": "launch",
+            "mainClass": "strong",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "SumOfArray",
+            "request": "launch",
+            "mainClass": "SumOfArray",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "DynamicDimensionalArray",
+            "request": "launch",
+            "mainClass": "DynamicDimensionalArray",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Array3",
+            "request": "launch",
+            "mainClass": "Array3",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "challengeDay13",
+            "request": "launch",
+            "mainClass": "challengeDay13",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Array2",
+            "request": "launch",
+            "mainClass": "Array2",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Array1",
+            "request": "launch",
+            "mainClass": "Array1",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "challengeDay12",
+            "request": "launch",
+            "mainClass": "challengeDay12",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "challengeDay11",
+            "request": "launch",
+            "mainClass": "challengeDay11",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "challengeDay10",
+            "request": "launch",
+            "mainClass": "challengeDay10",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
             "name": "pattern108",
             "request": "launch",
             "mainClass": "pattern108",
