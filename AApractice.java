@@ -1,39 +1,23 @@
 import java.util.Scanner;
-
-/*
- Question:
-Write a program that prints the largest repeating element in a sorted array.
-
-Example:
-Input:
-Array: [1, 1, 1, 2, 3, 3, 5, 5, 5]
-Output: 5
- */
 public class AApractice {
 
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
-        System.out.println("Enter the size of array needed : ");
-        int n=scan.nextInt();
-        int[] arr=new int[n];
-        for (int i = 0; i < arr.length; i++) {
-            System.out.println("Enter the value at index "+i+" : ");
-            arr[i]=scan.nextInt();
-        }
+        Scanner scan = new Scanner(System.in); 
+        System.out.println("String: "); 
+        String n = scan.nextLine();
         scan.close();
-        if(largestRepeatingElement(arr))
-            System.out.println("!!! No repeating vlaue in array !!!");
+        String output = removeSpecialChar (n);
+        System.out.println("Output:" +output);
     }
-    static boolean largestRepeatingElement(int[] arr)
-    {
-        for (int i = arr.length-1; i >0; i--) {
-            if(arr[i]==arr[i-1])
-            {
-                System.out.println("The largest repeating value is : "+arr[i]);
-                return false;
-            }
-        }
-        return true;
-        // System.out.println("x:"+repeat);
-    }
+
+public static String removeSpecialChar (String str) {
+    String output = new String();
+    for (int i=0;i<str.length();i++) {
+    char ch=str.charAt(i);
+    if ((ch>='A' && ch<='Z') || (ch>='a' && ch<='z') || (ch>='0' && ch<='9'))
+        output += ch;
+}
+
+return output;
+}
 }

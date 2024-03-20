@@ -6,6 +6,202 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ChallengeDay28",
+            "request": "launch",
+            "mainClass": "ChallengeDay28",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "ChallengeDay27_2",
+            "request": "launch",
+            "mainClass": "ChallengeDay27_2",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "ChallengeDay27",
+            "request": "launch",
+            "mainClass": "ChallengeDay27",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "ChallengeDay26_2",
+            "request": "launch",
+            "mainClass": "ChallengeDay26_2",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "ChallengeDay26",
+            "request": "launch",
+            "mainClass": "ChallengeDay26",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Person",
+            "request": "launch",
+            "mainClass": "Person",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "ChallengeDay25_2",
+            "request": "launch",
+            "mainClass": "ChallengeDay25_2",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "ChallengeDay25",
+            "request": "launch",
+            "mainClass": "ChallengeDay25",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "ChallengeDay24",
+            "request": "launch",
+            "mainClass": "ChallengeDay24",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "ChallengeDay23_2",
+            "request": "launch",
+            "mainClass": "ChallengeDay23_2",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "ChallengeDay23",
+            "request": "launch",
+            "mainClass": "ChallengeDay23",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "ChallengeDay22",
+            "request": "launch",
+            "mainClass": "ChallengeDay22",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "ChallengeDay21",
+            "request": "launch",
+            "mainClass": "ChallengeDay21",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "ChallengeDay20",
+            "request": "launch",
+            "mainClass": "ChallengeDay20",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "ChallengeDay19_2",
+            "request": "launch",
+            "mainClass": "ChallengeDay19_2",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "ChallengeDay19",
+            "request": "launch",
+            "mainClass": "ChallengeDay19",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "ChallengeDay18",
+            "request": "launch",
+            "mainClass": "ChallengeDay18",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "CommonElementArray",
+            "request": "launch",
+            "mainClass": "CommonElementArray",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "CountUniqueElement",
+            "request": "launch",
+            "mainClass": "CountUniqueElement",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "ChallengeDay17",
+            "request": "launch",
+            "mainClass": "ChallengeDay17",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "MergeArray",
+            "request": "launch",
+            "mainClass": "MergeArray",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "RotationalArray",
+            "request": "launch",
+            "mainClass": "RotationalArray",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "MigratoryBird",
+            "request": "launch",
+            "mainClass": "MigratoryBird",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "AngryProfessor",
+            "request": "launch",
+            "mainClass": "AngryProfessor",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "angryProfessor",
+            "request": "launch",
+            "mainClass": "angryProfessor",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "challengeDay16",
+            "request": "launch",
+            "mainClass": "challengeDay16",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "challengeDay15",
+            "request": "launch",
+            "mainClass": "challengeDay15",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "challengeDay14",
+            "request": "launch",
+            "mainClass": "challengeDay14",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
             "name": "strong",
             "request": "launch",
             "mainClass": "strong",

@@ -33,7 +33,7 @@ public class challengeDay12 {
                 {
                     System.out.print("("+arr[i]+", "+arr[j]+")");
                     if(i!=arr.length-1&&j!=arr.length-1)
-                        System.out.print(", ");
+                        System.out.print(", ");                        
                 }
             }
         }
