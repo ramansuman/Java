@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BankingApp",
+            "request": "launch",
+            "mainClass": "BankingApp",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "AA",
+            "request": "launch",
+            "mainClass": "AA",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Encapsulation1",
+            "request": "launch",
+            "mainClass": "Encapsulation1",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Encapsulation2",
+            "request": "launch",
+            "mainClass": "Encapsulation2",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
             "name": "ChallengeDay28",
             "request": "launch",
             "mainClass": "ChallengeDay28",
