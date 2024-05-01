@@ -5,19 +5,7 @@ class Customer {
     private String custName;
     private String password;
     private double balance;
-
-    public void setCustName(String custName) {
-        this.custName = custName;
-    }
-
-    public void setPassword(String password) {
-        this.password = password;
-    }
-
-    public void setBalance(double balance) {
-        this.balance = balance;
-    }
-
+    
     public Customer(String custName, String password, double balance) {
         this.custName = custName;
         this.password = password;

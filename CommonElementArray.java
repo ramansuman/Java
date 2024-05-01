@@ -3,18 +3,23 @@ import java.util.Scanner;
 public class CommonElementArray {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
+        System.out.print("Enter the required number of elements in array 1 : ");
         int N= scan.nextInt();
         int[] arr = new int[N];
+        System.out.print("Enter the elements in array 1 : ");
         for(int i = 0;i<arr.length;i++)
         {
             arr[i]=scan.nextInt();
         }
+        System.out.print("Enter the required number of elements in array 2 : ");
         int M = scan.nextInt();
+        System.out.print("Enter the elements in array 2 : ");
         int[] arr1 = new int[M];
         for (int i = 0; i < arr1.length; i++) {
             arr1[i]=scan.nextInt();
         }
         scan.close();
+        System.out.println("Common Elements in array 1 and 2 is : ");
         printCommonElement(arr,arr1);
     }
     /*
