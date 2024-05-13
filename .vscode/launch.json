@@ -6,6 +6,125 @@
     "configurations": [
         {
             "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "AAAAA",
+            "request": "launch",
+            "mainClass": "AAAAA",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode1",
+            "request": "launch",
+            "mainClass": "LeetCode1",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "ValidEmail",
+            "request": "launch",
+            "mainClass": "ValidEmail",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Encapsulation13",
+            "request": "launch",
+            "mainClass": "Encapsulation13",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Encapsulation12",
+            "request": "launch",
+            "mainClass": "Encapsulation12",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Encapsulation11",
+            "request": "launch",
+            "mainClass": "Encapsulation11",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Name",
+            "request": "launch",
+            "mainClass": "Name",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Raman",
+            "request": "launch",
+            "mainClass": "Raman",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Encapsulation10",
+            "request": "launch",
+            "mainClass": "Encapsulation10",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "AAA",
+            "request": "launch",
+            "mainClass": "AAA",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Encapsulation8",
+            "request": "launch",
+            "mainClass": "Encapsulation8",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Encapsulation7",
+            "request": "launch",
+            "mainClass": "Encapsulation7",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Encapsulation6",
+            "request": "launch",
+            "mainClass": "Encapsulation6",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Encapsulation4",
+            "request": "launch",
+            "mainClass": "Encapsulation4",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Encapsulation3",
+            "request": "launch",
+            "mainClass": "Encapsulation3",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
             "name": "BankingApp",
             "request": "launch",
             "mainClass": "BankingApp",
